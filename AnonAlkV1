@@ -454,7 +454,7 @@ li#userspace{
     background-image: none !important;
 }
  #app .community .left-side-wrapper {
-     background-image: url('https://i.imgur.com/xpkHRHS.jpg') !important;
+     background-image: url('https://i.imgur.com/Ug7do09.jpg') !important;
      background-size: cover !important;
 }
  #onesignal-bell-container, .onesignal-bell-container {
