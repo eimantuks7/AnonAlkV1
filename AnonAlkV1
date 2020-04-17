@@ -354,13 +354,6 @@ li#userspace{
  div[class*="cid-23146932"] a[href*=".gif"], div[class*="cid-23146932"] a[href*=".png"], div[class*="cid-23146932"] a[href*=".jpg"] {
      display: block;
 }
- a[href='http://nyanpass.com'], a[href='http://nyanpass.com/'], a[href='http://www.nyanpass.com'], a[href='www.nyanpass.com/'], a[href='http://www.nyanpass.com/'], a[href='www.nyanpass.com'] {
-     display: inline-block;
-     width: 161px;
-     height: 119px;
-     background: url('https://i.imgur.com/JySnHN1.gif') no-repeat;
-     text-indent: -1000px;
-}
 /* @-moz-keyframes fadein {
      from {
         opacity: 0;
